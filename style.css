@@ -1,0 +1,30 @@
+body  {
+    background-color: #7d2948;
+    /* COLOR DE Letras*/
+    color: beige;
+    font-family: 'Instrument Serif', serif;
+    
+}
+
+
+
+/* COLOR DE PARRAFOS*/
+p{
+    color: beige;
+}
+/* PARA AGREGAR UNA CLASE, PONEMOS (.) punto antes del nombre para poder renormbrar esta clase de html*/
+.titulo{
+    color: #6f6fd1;
+}
+
+img{
+    width: 300px;
+}
+
+.img-2{
+    width: 500px;
+}
+
+
+
+
